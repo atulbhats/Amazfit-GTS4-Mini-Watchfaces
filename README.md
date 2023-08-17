@@ -8,4 +8,4 @@ The watchface also sorts the data into categories and the data varies in font si
 
 Preview:
 
-![AOD For Ever Watchface]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://raw.githubusercontent.com/atulbhats/Amazfit-GTS4-Mini-Watchfaces/main/AOD%20For%20Ever/preview.png?token=GHSAT0AAAAAACGNQR35SMBCYAEYNSG6HEHWZG6J3UQ)https://raw.githubusercontent.com/atulbhats/Amazfit-GTS4-Mini-Watchfaces/main/AOD%20For%20Ever/preview.png?token=GHSAT0AAAAAACGNQR35SMBCYAEYNSG6HEHWZG6J3UQ "AOD For Ever Preview")
+![AOD For Ever Watchface](https://assets.digitalocean.com/articles/alligator/boo.svg](https://raw.githubusercontent.com/atulbhats/Amazfit-GTS4-Mini-Watchfaces/main/AOD%20For%20Ever/preview.png?token=GHSAT0AAAAAACGNQR35SMBCYAEYNSG6HEHWZG6J3UQ)https://raw.githubusercontent.com/atulbhats/Amazfit-GTS4-Mini-Watchfaces/main/AOD%20For%20Ever/preview.png?token=GHSAT0AAAAAACGNQR35SMBCYAEYNSG6HEHWZG6J3UQ "AOD For Ever Preview")
