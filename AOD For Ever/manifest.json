@@ -1,0 +1,1 @@
+{"configVersion":"v2","zpks":[{"name":"default-target-DIALOG-336x384.zpk","version":{"code":2,"name":"1.0.1"},"appType":"watchface","platforms":[{"screenType":"square","screenResolution":"336x384","cpuPlatform":"DIALOG"}],"md5":"e019318dda3785f9b218b41a081d9969"}],"bundleInfo":{"zpm":"2.10.2-beta","timeStamp":1692129851,"csc":".sc"}}
