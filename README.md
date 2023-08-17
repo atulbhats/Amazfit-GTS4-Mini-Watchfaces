@@ -8,4 +8,6 @@ The watchface also sorts the data into categories and the data varies in font si
 
 Preview:
 
-![AOD For Ever Watchface](AOD For Ever/preview.png?raw=true)
+![AOD For Ever Watchface](AOD%20For%20Ever/preview.png?raw=true)
+
+The files in the directory can be used to create or modify the watchface using [Zepp Watchface Maker](https://watchface.zepp.com/create)
