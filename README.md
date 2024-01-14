@@ -10,4 +10,11 @@ Preview:
 
 ![AOD For Ever Watchface](AOD%20For%20Ever/preview.png?raw=true)
 
+Watchface: Nothing Amazfit Watchface
+
+A watchface based on the Nothing Interface style design with multiple vital data on both Normal and Always On Display screens. 
+
+
+![Nothing Amazfit Watchface](Nothing%20Amazfit/preview.png?raw=true)
+
 The files in the directory can be used to create or modify the watchface using [Zepp Watchface Maker](https://watchface.zepp.com/create)
