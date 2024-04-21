@@ -14,7 +14,12 @@ Preview:
 
 A watchface based on the Nothing Interface style design with multiple vital data on both Normal and Always On Display screens. 
 
-
 ![Nothing Amazfit Watchface](Nothing%20Amazfit/preview.png?raw=true)
+
+### terminal.dat
+
+Imagine that your watchface and the information as a terminal response from a dat file. 
+
+![Nothing Amazfit Watchface](terminal.dat/preview.png?raw=true)
 
 The files in the directory can be used to create or modify the watchface using [Zepp Watchface Maker](https://watchface.zepp.com/create)
